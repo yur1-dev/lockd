@@ -45,11 +45,11 @@ const HowItWorks: React.FC = () => {
       featureIcons: [Zap, Lock],
     },
     {
-      title: "Buyers Get LOCK'D",
+      title: "Buyers Get LOCK&apos;D",
       description: "Every purchase = 30min automatic lock",
       subtitle: "No Paper Hands, No Instant Dumps",
       icon: Lock,
-      buttonText: "GET LOCK'D",
+      buttonText: "GET LOCK&apos;D",
       link: "https://t.me/lockd_official_bot",
       features: ["30min Lock", "No Dumps"],
       featureIcons: [Lock, ShieldCheck],
@@ -78,7 +78,7 @@ const HowItWorks: React.FC = () => {
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">
-            How LOCK'D Works
+            How LOCK&apos;D Works
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
             Launch meme coins with automatic 30-minute anti-dump protection in
@@ -180,7 +180,7 @@ const HowItWorks: React.FC = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                GET LOCK'D NOW
+                GET LOCK&apos;D NOW
               </a>
             </Button>
 

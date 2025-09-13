@@ -48,7 +48,7 @@ const Navbar = () => {
               />
             </div>
             <span className="text-3xl font-black text-red-700 tracking-wider">
-              LOCK'D
+              LOCK&apos;D
             </span>
           </Link>
 
@@ -155,7 +155,7 @@ const Navbar = () => {
                   rel="noopener noreferrer"
                   onClick={() => setIsMobileMenuOpen(false)}
                 >
-                  GET LOCK'D
+                  GET LOCK&apos;D
                 </a>
               </Button>
             </div>

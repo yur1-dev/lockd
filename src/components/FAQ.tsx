@@ -77,9 +77,9 @@ const FAQItem: React.FC<FAQItemProps> = ({ question, answer }) => {
 const FAQ: React.FC = () => {
   const faqs = [
     {
-      question: "What is LOCK'D and how does it work?",
+      question: "What is LOCK&apos;D and how does it work?",
       answer:
-        "LOCK'D is a meme coin launchpad with built-in anti-dump protection. Every token purchase is automatically locked for 30 minutes, preventing instant dumps and building stronger diamond-hand communities.",
+        "LOCK&apos;D is a meme coin launchpad with built-in anti-dump protection. Every token purchase is automatically locked for 30 minutes, preventing instant dumps and building stronger diamond-hand communities.",
     },
     {
       question: "Why are my tokens locked for 30 minutes?",
@@ -94,17 +94,17 @@ const FAQ: React.FC = () => {
     {
       question: "Can I cancel or bypass the 30-minute lock?",
       answer:
-        "Nope! Every ape gets locked, no exceptions. This is the core feature that makes LOCK'D work - no backdoors, no VIP bypasses. When you buy, you're LOCK'D UP for 30 minutes. That's the deal.",
+        "Nope! Every ape gets locked, no exceptions. This is the core feature that makes LOCK&apos;D work - no backdoors, no VIP bypasses. When you buy, you're LOCK&apos;D UP for 30 minutes. That's the deal.",
     },
     {
-      question: "How do I launch my own meme coin on LOCK'D?",
+      question: "How do I launch my own meme coin on LOCK&apos;D?",
       answer:
         "Simply start a conversation with @lockd_official_bot on Telegram. The bot will guide you through creating your meme coin with automatic 30-minute lock protection for all buyers.",
     },
     {
       question: "Is this available outside of Telegram?",
       answer:
-        "LOCK'D is Telegram-native for maximum convenience. No external apps, no complicated interfaces - everything happens right in Telegram where the meme coin community lives.",
+        "LOCK&apos;D is Telegram-native for maximum convenience. No external apps, no complicated interfaces - everything happens right in Telegram where the meme coin community lives.",
     },
     {
       question: "What happens after the 30 minutes are up?",
@@ -118,10 +118,10 @@ const FAQ: React.FC = () => {
       <div className="max-w-4xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-gradient mb-6">
-            LOCK'D FAQ
+            LOCK&apos;D FAQ FAQ
           </h2>
           <p className="text-xl text-muted-foreground">
-            Everything you need to know about getting LOCK'D UP
+            Everything you need to know about getting LOCK&apos;D FAQ UP
           </p>
         </div>
 

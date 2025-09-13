@@ -3,7 +3,7 @@
 import type React from "react";
 import { useState, useRef, useEffect } from "react";
 import { Button } from "@/components/ui/button";
-import { Send, Lock } from "lucide-react";
+import { Send } from "lucide-react";
 import Image from "next/image"; // ✅ Import Image from Next.js
 
 const Footer: React.FC = () => {
@@ -79,7 +79,7 @@ const Footer: React.FC = () => {
               </div>
             </div>
             <h1 className="text-4xl font-bold text-gradient animate-blink">
-              LOCK'D
+              LOCK&apos;D
             </h1>
           </div>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto leading-relaxed">
@@ -233,7 +233,7 @@ const Footer: React.FC = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              GET LOCK'D NOW
+              GET LOCK&apos;D NOW
             </a>
           </Button>
         </div>
@@ -241,11 +241,11 @@ const Footer: React.FC = () => {
         {/* Footer Bottom */}
         <div className="border-t border-border/50 pt-8 text-center">
           <p className="text-muted-foreground text-sm mb-2">
-            &copy; {new Date().getFullYear()} LOCK'D. All rights reserved.
+            &copy; {new Date().getFullYear()} LOCK&apos;D. All rights reserved.
           </p>
           <p className="text-xs text-muted-foreground">
             WARNING: All purchases are automatically locked for 30 minutes. This
-            is not financial advice. DYOR before getting LOCK'D.
+            is not financial advice. DYOR before getting LOCK&apos;D.
           </p>
         </div>
       </div>

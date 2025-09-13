@@ -50,7 +50,7 @@ const CTA: React.FC = () => {
         </div>
 
         <h2 className="text-4xl md:text-6xl font-bold text-gradient mb-4">
-          READY TO GET LOCK'D UP?
+          READY TO GET LOCK&apos;D UP?
         </h2>
 
         <h3 className="text-2xl md:text-3xl font-bold text-primary mb-8">
@@ -103,7 +103,7 @@ const CTA: React.FC = () => {
           <p className="mb-2">
             WARNING: All purchases are automatically locked for 30 minutes
           </p>
-          <p>This is not financial advice. DYOR before getting LOCK'D.</p>
+          <p>This is not financial advice. DYOR before getting LOCK&apos;D.</p>
         </div>
       </div>
     </section>

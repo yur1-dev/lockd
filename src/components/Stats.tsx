@@ -74,7 +74,7 @@ const Stats: React.FC = () => {
       value: 1250,
       suffix: "+",
       label: "DIAMOND HANDS CREATED",
-      description: "Users who've been LOCK'D",
+      description: "Users who've been LOCK&apos;D",
       gradient: "from-danger to-danger/70",
     },
     {
@@ -97,7 +97,7 @@ const Stats: React.FC = () => {
       icon: Lock,
       value: 24,
       suffix: "/7",
-      label: "ALWAYS LOCK'D",
+      label: "ALWAYS LOCK&apos;D",
       description: "Community support",
       gradient: "from-warning to-danger",
     },
@@ -134,7 +134,7 @@ const Stats: React.FC = () => {
       <div className="max-w-7xl mx-auto relative z-10">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-black fire-glow-text mb-6 tracking-wider uppercase">
-            LOCK'D STATS
+            LOCK&apos;D STATS
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
             Building diamond hand communities, one lock at a time

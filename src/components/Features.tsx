@@ -99,7 +99,7 @@ const Features: React.FC = () => {
       <div className="max-w-7xl mx-auto relative z-10">
         <div className="text-center mb-20">
           <h2 className="text-5xl md:text-7xl font-black fire-glow-text mb-8 tracking-wider uppercase">
-            LOCK'D FEATURES
+            LOCK&apos;D FEATURES
           </h2>
 
           <div className="w-32 h-1 bg-gradient-to-r from-red-500 via-orange-500 to-red-500 mx-auto mb-8 rounded-full shadow-lg" />
